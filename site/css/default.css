@@ -2,6 +2,26 @@ html {
   font-family: sans-serif;
 }
 
+h1, h2, h3, nav {
+  font-weight: 300;
+  font-family: "Averia Serif Libre", sans-serif;
+}
+
+.site-title {
+  font-size: 30pt;
+}
+
+@media (prefers-color-scheme: light) {
+	html {
+	  background-color: #fff5ea;
+	}
+}
+
+/* code { */
+/*   font-size: 11pt; */
+/*   font-weight: normal; */
+/* } */
+
 body {
   margin: auto;
   padding: 0 1em;
