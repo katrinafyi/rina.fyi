@@ -8,12 +8,16 @@ h1, h2, h3, nav {
 }
 
 .site-title {
-  font-size: 30pt;
+  font-size: 35pt;
+  font-weight: 600;
 }
 
 @media (prefers-color-scheme: light) {
 	html {
 	  background-color: #fff5ea;
+	}
+	.site-title {
+    color: #6a3f3f;
 	}
 }
 
