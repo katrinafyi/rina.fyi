@@ -50,9 +50,11 @@ Coughlin, N., Michael, A., &amp; Lam, K. (2024). Lift-*Offline*: Instruction Lif
 <span style="white-space: nowrap;">([Slides](/slides_2024_handout.pdf))</span>
 
 Coughlin, N., Lam, K., Smith, G., &amp; Winter, K. (2024). Detecting Speculative Execution Vulnerabilities on Weak Memory Models. In A. Platzer, K. Y. Rozier, M. Pradella, &amp; M. Rossi (Eds.), <i>Formal Methods &ndash; FM 2024</i> (Vol. 14933, pp. 482&#x2013;500). Springer Nature Switzerland. <code>[10.1007/978-3-031-71162-6_25](https://doi.org/10.1007/978-3-031-71162-6_25)</code>
+<span style="white-space: nowrap;">([Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-71162-6_25.pdf))</span>
 
 Lam, K., &amp; Coughlin, N. (2023). Lift-off: Trustworthy ARMv8 semantics from formal specifications. In A. Nadel &amp; K. Y. Rozier (Eds.), <i>Proceedings of the 23rd Conference on Formal Methods in Computer-Aided Design &ndash; FMCAD 2023</i> (pp. 274&#x2013;283). TU Wien Academic Press.
 <code>[10.34727/2023/isbn.978-3-85448-060-0_36](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_36)</code>
+<span style="white-space: nowrap;">([Paper](https://repositum.tuwien.at/bitstream/20.500.12708/188857/1/Lam-2023-Lift-off%20Trustworthy%20ARMv8%20semantics%20from%20formal%20specifications-vor.pdf))</span>
 <span style="white-space: nowrap;">([Slides](/slides_2023.pdf))</span>
 <span style="white-space: nowrap;">([Best Paper Award](https://fmcad.org/FMCAD23/awards/))</span>
 
