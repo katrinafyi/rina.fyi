@@ -46,6 +46,8 @@ Have a great day! ^^
 
 Coughlin, N., Michael, A., &amp; Lam, K. (2024). Lift-*Offline*: Instruction Lifter Generators. In R. Giacobazzi & A. Gorla (Eds.), Static Analysis (Vol. 14995, pp. 86–119). Springer Nature Switzerland.
 <code>[10.1007/978-3-031-74776-2_4](https://doi.org/10.1007/978-3-031-74776-2_4)</code>
+<span style="white-space: nowrap;">([Paper](/lift-offline.pdf))</span>
+<span style="white-space: nowrap;">([Slides](/slides_2024_handout.pdf))</span>
 
 Coughlin, N., Lam, K., Smith, G., &amp; Winter, K. (2024). Detecting Speculative Execution Vulnerabilities on Weak Memory Models. In A. Platzer, K. Y. Rozier, M. Pradella, &amp; M. Rossi (Eds.), <i>Formal Methods &ndash; FM 2024</i> (Vol. 14933, pp. 482&#x2013;500). Springer Nature Switzerland. <code>[10.1007/978-3-031-71162-6_25](https://doi.org/10.1007/978-3-031-71162-6_25)</code>
 
