@@ -43,8 +43,9 @@ Have a great day! ^^
 
 <!-- apa style from zotero with minor alterations (doi format and conference abbreviation) -->
 
-Berger, R., Briles, M., Boushehrinejad Moradi, N., Coughlin, N., Lam, K., Lopes, N. P., Mada, S., Tirpankar, T., & Regehr, J. (2025). Translation Validation for LLVM’s AArch64 Backend. Proceedings of the ACM on Programming Languages, 9(OOPSLA2), 2710–2735.
+Berger,&nbsp;R., Briles,&nbsp;M., Boushehrinejad Moradi,&nbsp;N., Coughlin,&nbsp;N., Lam,&nbsp;K., Lopes,&nbsp;N. P., Mada,&nbsp;S., Tirpankar,&nbsp;T., & Regehr,&nbsp;J. (2025). Translation Validation for LLVM’s AArch64 Backend. Proceedings of the ACM on Programming Languages, 9(OOPSLA2), 2710–2735.
 [10.1145/3763147](https://doi.org/10.1145/3763147)
+<span style="white-space: nowrap;">([Paper](https://dl.acm.org/doi/pdf/10.1145/3763147))</span>
 
 Coughlin, N., Michael, A., &amp; Lam, K. (2025). Lift-*Offline*: Instruction Lifter Generators. In R. Giacobazzi & A. Gorla (Eds.), Static Analysis (Vol. 14995, pp. 86–119). Springer Nature Switzerland.
 [10.1007/978-3-031-74776-2_4](https://doi.org/10.1007/978-3-031-74776-2_4)
