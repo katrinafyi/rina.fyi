@@ -44,16 +44,20 @@ Have a great day! ^^
 
 <!-- apa style from zotero with minor alterations (doi format and conference abbreviation) -->
 
-Coughlin, N., Michael, A., &amp; Lam, K. (2024). Lift-*Offline*: Instruction Lifter Generators. In R. Giacobazzi & A. Gorla (Eds.), Static Analysis (Vol. 14995, pp. 86–119). Springer Nature Switzerland.
-<code>[10.1007/978-3-031-74776-2_4](https://doi.org/10.1007/978-3-031-74776-2_4)</code>
+Berger, R., Briles, M., Boushehrinejad Moradi, N., Coughlin, N., Lam, K., Lopes, N. P., Mada, S., Tirpankar, T., & Regehr, J. (2025). Translation Validation for LLVM’s AArch64 Backend. Proceedings of the ACM on Programming Languages, 9(OOPSLA2), 2710–2735.
+[10.1145/3763147](https://doi.org/10.1145/3763147)
+
+Coughlin, N., Michael, A., &amp; Lam, K. (2025). Lift-*Offline*: Instruction Lifter Generators. In R. Giacobazzi & A. Gorla (Eds.), Static Analysis (Vol. 14995, pp. 86–119). Springer Nature Switzerland.
+[10.1007/978-3-031-74776-2_4](https://doi.org/10.1007/978-3-031-74776-2_4)
 <span style="white-space: nowrap;">([Paper](/lift-offline.pdf))</span>
 <span style="white-space: nowrap;">([Slides](/slides_2024_handout.pdf))</span>
 
-Coughlin, N., Lam, K., Smith, G., &amp; Winter, K. (2024). Detecting Speculative Execution Vulnerabilities on Weak Memory Models. In A. Platzer, K. Y. Rozier, M. Pradella, &amp; M. Rossi (Eds.), <i>Formal Methods &ndash; FM 2024</i> (Vol. 14933, pp. 482&#x2013;500). Springer Nature Switzerland. <code>[10.1007/978-3-031-71162-6_25](https://doi.org/10.1007/978-3-031-71162-6_25)</code>
+Coughlin, N., Lam, K., Smith, G., &amp; Winter, K. (2024). Detecting Speculative Execution Vulnerabilities on Weak Memory Models. In A. Platzer, K. Y. Rozier, M. Pradella, &amp; M. Rossi (Eds.), <i>Formal Methods &ndash; FM 2024</i> (Vol. 14933, pp. 482&#x2013;500). Springer Nature Switzerland.
+[10.1007/978-3-031-71162-6_25](https://doi.org/10.1007/978-3-031-71162-6_25)
 <span style="white-space: nowrap;">([Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-71162-6_25.pdf))</span>
 
 Lam, K., &amp; Coughlin, N. (2023). Lift-off: Trustworthy ARMv8 semantics from formal specifications. In A. Nadel &amp; K. Y. Rozier (Eds.), <i>Proceedings of the 23rd Conference on Formal Methods in Computer-Aided Design &ndash; FMCAD 2023</i> (pp. 274&#x2013;283). TU Wien Academic Press.
-<code>[10.34727/2023/isbn.978-3-85448-060-0_36](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_36)</code>
+[10.34727/2023/isbn.978-3-85448-060-0_36](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_36)
 <span style="white-space: nowrap;">([Paper](https://repositum.tuwien.at/bitstream/20.500.12708/188857/1/Lam-2023-Lift-off%20Trustworthy%20ARMv8%20semantics%20from%20formal%20specifications-vor.pdf))</span>
 <span style="white-space: nowrap;">([Slides](/slides_2023.pdf))</span>
 <span style="white-space: nowrap;">([Best Paper Award](https://fmcad.org/FMCAD23/awards/))</span>
