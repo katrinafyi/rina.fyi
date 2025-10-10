@@ -26,10 +26,9 @@ C++, Haskell, and Typescript.
 
 I'm interested in learning about:
 
-- functional programming and type systems,
-- dependently-typed proof assistants,
-- staged programming,
-- logics,
+- functional programming and metaprogramming,
+- type systems and proof assistants,
+- build systems and package managers,
 - education and visualisations, and
 - user experience and developer experience.
 
