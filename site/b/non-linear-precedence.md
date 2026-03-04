@@ -107,7 +107,7 @@ lower precedence.
 
 I don't really know how to fix this.
 
-## related work
+## related work & goals
 
 [Jeff Walker writes](https://blog.adamant-lang.org/2019/operator-precedence/)
 about partial orders for precedence, with manual declaration of the order
