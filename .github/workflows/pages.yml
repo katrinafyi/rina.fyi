@@ -38,7 +38,6 @@ jobs:
         uses: actions/configure-pages@v5
 
       - uses: DeterminateSystems/nix-installer-action@main
-      - uses: DeterminateSystems/magic-nix-cache-action@main
 
       - run: "nix build ."
       - run: "LC_ALL=C.utf-8 nix run . -- rebuild"
