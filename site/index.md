@@ -4,9 +4,10 @@ title: Home
 
 Hi there, you can call me Kait.
 I'm a program analysis researcher
-at the University of Queensland, Australia
-after previously completing an
-undergraduate degree in computer science + maths.
+for DSTG based
+at the University of Queensland, Australia.
+I previously completed
+undergraduate degrees in computer science and maths.
 <!-- student completing my undergraduate thesis. -->
 
 <!-- Most of my experience is in &ldquo;modern&rdquo; web development. -->
@@ -18,9 +19,9 @@ undergraduate degree in computer science + maths.
 
 Currently, I do work on binary analysis and binary lifting, for the purpose of
 applying formal methods to binaries.
-I enjoy making things work, and then making sure they keep on working.
+I'm passionate about making solutions that work, and then making sure they keep on working.
 
-Nowadays, I use a lot of OCaml, Nix, and Python.
+Nowadays, I use a lot of OCaml, Nix, Scala, and Python.
 I have also learned some of
 C++, Haskell, and Typescript.
 
