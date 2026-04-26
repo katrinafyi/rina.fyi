@@ -1,10 +1,13 @@
 html {
-  font-family: sans-serif;
+  font-family: "Atkinson Hyperlegible Soft", sans-serif;
+  font-size: 14pt;
+}
+pre, code {
+  font-size: 11pt;
 }
 
 h1, h2, h3, nav {
-  font-weight: 300;
-  font-family: "Averia Serif Libre", sans-serif;
+  font-weight: 600;
 }
 
 .site-title {
@@ -12,14 +15,27 @@ h1, h2, h3, nav {
   font-weight: 600;
 }
 
+:root {
+  --light: #fff8f0;
+  --dark: #0a0a0a;
+  /* --light: #eae5e0; */
+  /* --dark: #262626; */
+
+}
+
 @media (prefers-color-scheme: light) {
 	html {
-	  background-color: #fff5ea;
-	}
-	.site-title {
-    color: #6a3f3f;
+	  background-color: var(--light);
+	  color: var(--dark);
 	}
 }
+
+/* @media (prefers-color-scheme: dark) { */
+/* 	html { */
+/* 	  background-color: #262626; */
+/* 	  color: #eae5e0; */
+/* 	} */
+/* } */
 
 /* code { */
 /*   font-size: 11pt; */
