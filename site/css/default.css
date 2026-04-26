@@ -1,13 +1,14 @@
 html {
   font-family: "Atkinson Hyperlegible Soft", sans-serif;
-  font-size: 14pt;
+  font-size: 13pt;
 }
 pre, code {
   font-size: 11pt;
 }
 
-h1, h2, h3, nav {
-  font-weight: 600;
+h1, h2, h3 {
+  font-family: "Averia Serif Libre", sans-serif;
+  font-weight: 300;
 }
 
 .site-title {
@@ -24,10 +25,12 @@ h1, h2, h3, nav {
 }
 
 @media (prefers-color-scheme: light) {
-	html {
-	  background-color: var(--light);
-	  color: var(--dark);
-	}
+  html {
+    background-color: #fff5ea;
+  }
+  .site-title {
+    color: #6a3f3f;
+  }
 }
 
 /* @media (prefers-color-scheme: dark) { */
