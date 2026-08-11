@@ -7,6 +7,8 @@ description: on statistical and ethical grounds
 
 # the 2026 Australian census questions are bad
 
+on statistical and ethical grounds
+
 <details>
 <summary>the questions</summary>
 
@@ -21,8 +23,7 @@ description: on statistical and ethical grounds
 
 put simply, there are other ways to get the information which are both easier and vastly more tactful, and the ABS should do better. 
 
-if the two questions were *only* used to infer gende![Uploading image.png…]()
-r identity then it would be frustrating but it would still be tolerable. the ABS will use sex at birth for other purposes though, to present data categorised by sex. this is despite the fact that it does not serve the goal of the census - to get useful data from which to make informed decisions. sex at birth is not an accurate indicator of... anything. not about how you live your life, not about which services you might use, and not about how others perceive you. 
+if the two questions were *only* used to infer gender identity then it would be frustrating but it would still be tolerable. the ABS will use sex at birth for other purposes though, to present data categorised by sex. this is despite the fact that it does not serve the goal of the census - to get useful data from which to make informed decisions. sex at birth is not an accurate indicator of... anything. not about how you live your life, not about which services you might use, and not about how others perceive you. 
 
 so, asking and recording the sex at birth data is less than worthless, and only causes distress (and likely messy data) and it invites misuse of the data 
 
